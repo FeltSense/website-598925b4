@@ -34,7 +34,7 @@ export default function Features() {
     {
       icon: Award,
       title: 'Emergency Services',
-      description: 'Dental emergencies don't wait. We offer same-day emergency care when you need it most.',
+      description: 'Dental emergencies don\'t wait. We offer same-day emergency care when you need it most.',
       image: '/images/services-overview-feature-1770693826848.png'
     },
     {
@@ -45,7 +45,7 @@ export default function Features() {
     {
       icon: Users,
       title: 'Family-Friendly',
-      description: 'Welcoming patients of all ages, from toddlers to grandparents. Your whole family's dental home in Houston.'
+      description: 'Welcoming patients of all ages, from toddlers to grandparents. Your whole family\'s dental home in Houston.'
     }
   ]
 
